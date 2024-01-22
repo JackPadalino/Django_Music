@@ -1,0 +1,6 @@
+[submodule "django_music_frontend"]
+	path = django_music_frontend
+	url = https://github.com/JackPadalino/django_music_frontend.git
+[submodule "django_music_backend"]
+	path = django_music_backend
+	url = https://github.com/JackPadalino/django_music_backend.git
