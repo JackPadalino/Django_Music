@@ -1,4 +1,4 @@
-# Django_Music
+# [Django_Music](https://django-music-frontend.onrender.com/)
 Beatport-like application that serves as an online marketplace for digital music.
 
 ![image](https://github.com/JackPadalino/django_music/assets/97137486/a14b9b9f-ec07-4bd0-b5f7-7fe3089a5266)
@@ -23,6 +23,7 @@ Backend
 - Amazon S3 Buckets
 
 ## Repositories
+- See the deployed project [here](https://django-music-frontend.onrender.com/)
 - [Backend](https://github.com/JackPadalino/django_music_backend/tree/516665ddda28148b52db5f461032e38a2b743a0a)
 - [Frontend](https://github.com/JackPadalino/django_music_frontend/tree/baf69113208a9376fa9a6fa150bedfef9e179bea)
 
