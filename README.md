@@ -31,6 +31,15 @@ Backend
 - Frontend and backend deployed separately using [Render](https://render.com/)
 - Media files like photos and mp3 files are stored and served using [AWS S3 Buckets](https://aws.amazon.com/?nc2=h_lg)
 
+## Admin capabilities
+Because this project was created using Django, all admin users have access to the Django admin GUI:
+
+![image](https://github.com/JackPadalino/django_music/assets/97137486/9c333f2e-ee4f-4e5c-8be4-bd587d41e0fc)
+
+By making use of Django REST Framework and Django-Colorfield admin can even customize colors of the frontend without code:
+
+![image](https://github.com/JackPadalino/django_music/assets/97137486/7cb7d109-04ed-4519-bb51-5a3f15f4ae76)
+
 ## Ongoing work
 - Adding user accounts and authentication
 - Set up paywall using Stripe API
