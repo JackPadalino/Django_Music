@@ -22,10 +22,10 @@ Backend
 - Django Storages
 - Amazon S3 Buckets
 
-## Repositories
-- See the deployed project [here](https://django-music-frontend.onrender.com/)
-- [Backend](https://github.com/JackPadalino/django_music_backend/tree/516665ddda28148b52db5f461032e38a2b743a0a)
-- [Frontend](https://github.com/JackPadalino/django_music_frontend/tree/baf69113208a9376fa9a6fa150bedfef9e179bea)
+## Links
+- [Deployed site](https://django-music-frontend.onrender.com/)
+- [Backend repository](https://github.com/JackPadalino/django_music_backend/tree/516665ddda28148b52db5f461032e38a2b743a0a)
+- [Frontend repository](https://github.com/JackPadalino/django_music_frontend/tree/baf69113208a9376fa9a6fa150bedfef9e179bea)
 
 ## Deployments
 - Frontend and backend deployed separately using [Render](https://render.com/)
